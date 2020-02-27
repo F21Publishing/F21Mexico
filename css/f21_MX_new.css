@@ -658,8 +658,8 @@ span[class^="c_card_"].small {
   background-size: cover;
   display: inline-block;
   vertical-align: middle;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
   width: 24px;
   height: 24px;
 }
@@ -723,7 +723,7 @@ span[class^="c_card_"].small {
 
 
 /*
-* Forever21 USA v1.1.1 4/22/2019 - Version 1
+* Forever21 USA v1.1.1 4/25/2019 - Version 1
 * Copyright Forever21
 * Updated by Namhee Kim
 */
